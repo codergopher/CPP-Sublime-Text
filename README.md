@@ -24,7 +24,7 @@ LINUX USERS please use the Linux Build. It should support most Debian based dist
 
 So the way it works is you go CTRL+N, write a C++ source/header file, and then save it as .cpp/.hpp in src/include. If you are saving a .cpp file, save it in src as a .cpp. Of course, if you are writing a C++ header file(.h/.hpp), save it in include.
 
-The "include" directory is linked with the compiler, so when you need to #include a hedear file from the include directory, all you have to do is #include "Example.hpp" and you're good to go.
+The "include" directory is linked with the compiler, so when you need to #include a header file from the include directory, all you have to do is #include "Example.hpp" and you're good to go.
 
 ===========TO COMPILE========= 
 
